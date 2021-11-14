@@ -1,7 +1,7 @@
 Tools bar
 =========
 
-The following operations are available in navigation bar on top (Fig.4):
+The following operations are available in navigation bar on top (see :ref:`interact-vis-sect`):
 
 * The slider on the Cutting plane panel to select various 2D projections
 *  The checkbox on the Contours panel to display contours in 2D projections

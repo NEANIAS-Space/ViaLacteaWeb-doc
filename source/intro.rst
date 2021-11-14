@@ -1,19 +1,10 @@
 Introduction
 ============
-Space missions and ground-based facilities collect increasingly huge amounts of data that demand novel approaches to data processing, storage, visualization and analysis.
+The NEANIAS ViaLactea Web is currently available at `here <https://visivo-server.oact.inaf.it/>`_.
 
-The `ViaLactea project <https://www.neanias.eu/index.php/dissemination-open-access/articles/432-neanias-space-vialactea>` is an ecosystem that offers the Astrophysics and Planetary communities highly interactive visual analytic interfaces enabling effective exploitation of multi-wavelength observations of the Milky Way Galactic Plane, ranging from the near infrared to the radio spectrum. ViaLactea strongly promotes FAIR data and Open Science practices and is integrated within the European Open Science Cloud (EOSC).
+The main requirements to access the service are:
 
-As a part of this research, the ViaLactea Web (VLW) solution is developed as a collaborative web solutions for multi-user support underpinned by efficient remote server CPU and GPU rendering, and support of mobile and desktop devices. All underlying data is managed by a dedicated data service, namely the ViaLactea Knowledge Base, that provides object catalogs and Spectral Energy Distribution model outputs to carry out correlation analysis workflows for studying the star formation process in our Galaxy. The overall performance experiences is defined by remote GPU and CPU visualisation server performance.
-
-The NEANIAS ViaLactea Web is available at
-
-`https://visivo-server.oact.inaf.it <https://visivo-server.oact.inaf.it/>`.
-
-The main requirements are:
-
-*  Internet Access and Firefox Web browser
-*  Microsoft or Google account for authentication
-*  Access to the VLKB service through the NEANIAS Service Management System (SMS)
-
-The service demo video is available at `https://youtu.be/F6Q4xiMbHqg <https://youtu.be/F6Q4xiMbHqg>`
+- Internet Access and Firefox Web browser
+- Microsoft or Google account for authentication
+- Access to the VLKB service through the NEANIAS Service Management System (SMS) (see :ref:`access-sect`).
+The service demo video is available `here <https://youtu.be/F6Q4xiMbHqg>`_.
