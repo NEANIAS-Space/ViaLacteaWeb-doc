@@ -8,4 +8,4 @@ After successful login the user is redirected to VLW web page with application m
    :align: center
    :alt: The ViaLactea Web UI
 
-Figure 1: The ViaLactea Web UI
+   The ViaLactea Web UI

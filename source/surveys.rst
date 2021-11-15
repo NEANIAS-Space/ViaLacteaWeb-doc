@@ -8,7 +8,7 @@ To access DataCube surveys data, open a left panel by clicking on a Search icon 
    :align: center
    :alt: Right panel
 
-Figure 2: Right panel
+   Right panel
 
 Confirm a VLKB query by clicking on the Query button (see :numref:`leftpanelfig`). Wait till query will be executed and the datacube is loaded.
 
@@ -19,4 +19,4 @@ The first available DataCube data would be loaded and available fo user interact
    :align: center
    :alt: The list of available DataCube surveys
 
-Figure 3: The list of available DataCube surveys
+   The list of available DataCube surveys

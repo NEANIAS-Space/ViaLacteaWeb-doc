@@ -10,4 +10,4 @@ As DataCube is loaded, the user can interactively explore data in 2D and 3D proj
    :align: center
    :alt: Tools bar to interact with DataCube data
 
-Figure 4: Tools bar to interact with DataCube data
+   Tools bar to interact with DataCube data
