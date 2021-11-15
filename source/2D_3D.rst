@@ -1,0 +1,8 @@
+2D and 3D interaction
+=====================
+
+The following types of user interaction are available:
+
+*  Adjust the 2D the image scale with mouse while holding down a right button.
+*  Rotate in 3D with mouse while holding down a right button.
+*  Zoom in/out in 3D with mouse wheel
