@@ -1,7 +1,8 @@
 Loading DataCube surveys
 ========================
 
-To access DataCube surveys data, open a left panel by clicking on a Search icon and enter galactic coordinates (see :numref:`leftpanelfig`)
+To access DataCube surveys data,
+open a left panel by clicking on a Search icon and enter galactic coordinates (see :numref:`leftpanelfig`), for example glon:20,glat:0,rad:0.2.
 
 .. _leftpanelfig:
 .. figure:: images/im2.png
@@ -20,3 +21,17 @@ The first available DataCube data would be loaded and available fo user interact
    :alt: The list of available DataCube surveys
 
    The list of available DataCube surveys
+
+Browsing and visualising Datacube files (FITS) from the remote server
+=====================================================================
+
+VLW also allows browsing and visualising FITS files stored on remote server.
+To access local DataCubes, open a left panel by clicking on a Search icon and click on "Load Local" .
+The Datacube FITS file browser will appear :numref:`filefig` .
+
+.. _filefig:
+.. figure:: images/filebrowser.png
+   :align: center
+   :alt: Local FITS file browser
+
+   Local FITS file browser
