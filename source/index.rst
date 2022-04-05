@@ -15,6 +15,6 @@ As a part of this research, the ViaLactea Web (VLW) solution is developed as a c
    access
    user_interface
    surveys
-   interactive_vis
-   2D_3D
-   toolbar
+   interactive_vis2D
+   interactive_vis3D
+   
