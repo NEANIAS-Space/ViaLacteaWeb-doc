@@ -6,13 +6,13 @@ After successful login the user is redirected to VLW web page with application m
 ViaLactea Web 2.0 provides tools for analysis of 2D and 3D results of VLKB queries. The 2D and 3D data analysis functionality is provided in seperate tabs of a web browser. For testing purposes, the visualisation of local 3D FITS files is also supported. The current interface layout that covers a visualisation of 2D data is presended in :numref:`webfigtw` .
 
 .. _webfigtw:
-.. figure:: images/im1.png
+.. figure:: images/img2.png
    :align: center
-   :alt: The ViaLactea Web 3D analysis UI
+   :alt: The ViaLactea Web 2D image analysis UI
 
    The ViaLactea Web 2D image analysis UI
 
- The current interface layout that covers a 3D DataCube visualisation aspects is presented in :numref:`webfig` .
+The current interface layout that covers a 3D DataCube visualisation aspects is presented in :numref:`webfig` .
 
 .. _webfig:
 .. figure:: images/im1.png
